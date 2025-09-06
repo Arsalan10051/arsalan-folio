@@ -41,26 +41,26 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "arsalan.hyder@example.com",
-      link: "mailto:arsalan.hyder@example.com"
+      value: "Arsalanabbasi507@gmail.com",
+      link: "mailto:Arsalanabbasi507@gmail.com"
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/arsalanhyder",
-      link: "https://github.com/arsalanhyder"
+      value: "github.com/Arsalan10051",
+      link: "https://github.com/Arsalan10051"
     },
     {
       icon: ExternalLink,
       label: "Upwork",
       value: "Upwork Profile",
-      link: "#"
+      link: "https://www.upwork.com/freelancers/~013e65afd85a99a534?mp_source=share"
     },
     {
       icon: ExternalLink,
       label: "PeoplePerHour",
       value: "PPH Profile",
-      link: "#"
+      link: "https://www.peopleperhour.com/freelancer/arsalan-abbasi-nxvqvmw"
     }
   ];
 
