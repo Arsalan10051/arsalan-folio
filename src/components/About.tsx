@@ -13,20 +13,23 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="order-2 md:order-1">
               <p className="text-lg mb-6 text-muted-foreground leading-relaxed">
-                I'm Arsalan Hyder Abbasi, an aspiring AI programmer who has successfully completed 
-                secondary education and is currently learning at <strong className="text-foreground">Aptech Pakistan</strong>.
+                Hi, I'm Arsalan Hyder Abbasi.
               </p>
               
               <p className="text-lg mb-6 text-muted-foreground leading-relaxed">
-                My journey in technology is driven by a passion for web development and artificial 
-                intelligence. I'm dedicated to building modern, responsive web solutions using 
-                cutting-edge technologies like React, Node.js, and Python.
+                I am a dedicated and aspiring AI programmer and web developer, equipped with a solid foundation from my secondary education and currently advancing my skills at <strong className="text-foreground">Aptech Pakistan</strong>.
               </p>
 
               <p className="text-lg mb-6 text-muted-foreground leading-relaxed">
-                Currently studying the German language with plans to pursue higher education in 
-                Germany, I'm constantly expanding my skill set and preparing for an international 
-                career in technology.
+                My journey in technology is fueled by a deep passion for creating intelligent systems and modern, responsive web solutions. I am proficient in leveraging cutting-edge technologies like React, Node.js, and Python to build efficient and user-focused applications.
+              </p>
+
+              <p className="text-lg mb-6 text-muted-foreground leading-relaxed">
+                Looking ahead, I am actively preparing for an international career by currently studying the German language. My goal is to pursue higher education in Germany, immersing myself in its renowned tech industry and innovation ecosystem.
+              </p>
+
+              <p className="text-lg mb-6 text-muted-foreground leading-relaxed">
+                I am constantly seeking new challenges to expand my skill set and contribute to meaningful technological advancements.
               </p>
 
               <div className="grid grid-cols-2 gap-6 mt-8">
