@@ -32,13 +32,15 @@ const About = () => {
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="bg-card p-6 rounded-lg border border-border">
                   <h3 className="font-semibold text-foreground mb-2">Education</h3>
-                  <p className="text-muted-foreground">Secondary Completed</p>
-                  <p className="text-muted-foreground">Aptech Pakistan</p>
+                  <p className="text-muted-foreground">Going to Germany</p>
+                  <p className="text-muted-foreground">University of Hamburg</p>
                 </div>
                 <div className="bg-card p-6 rounded-lg border border-border">
                   <h3 className="font-semibold text-foreground mb-2">Focus</h3>
-                  <p className="text-muted-foreground">Web Development</p>
-                  <p className="text-muted-foreground">AI Programming</p>
+                  <p className="text-muted-foreground">Web Development ✓</p>
+                  <p className="text-muted-foreground">App Development ✓</p>
+                  <p className="text-muted-foreground">Game Development ✓</p>
+                  <p className="text-muted-foreground">AI Learning</p>
                 </div>
               </div>
             </div>
