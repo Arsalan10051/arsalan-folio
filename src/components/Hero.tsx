@@ -50,7 +50,7 @@ const Hero = () => {
 
           <div className="flex justify-center gap-6 mb-8">
             <a 
-              href="https://github.com/arsalanhyder" 
+              href="https://github.com/Arsalan10051" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300 hover:scale-110"
@@ -58,7 +58,7 @@ const Hero = () => {
               <Github className="h-6 w-6" />
             </a>
             <a 
-              href="mailto:arsalan@example.com"
+              href="mailto:Arsalanabbasi507@gmail.com"
               className="p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300 hover:scale-110"
             >
               <Mail className="h-6 w-6" />
